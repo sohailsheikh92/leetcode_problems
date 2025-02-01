@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0303-range-sum-query-immutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,4 +15,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0001-two-sum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
