@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
