@@ -17,6 +17,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
