@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -59,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
