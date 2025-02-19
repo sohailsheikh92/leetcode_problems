@@ -10,6 +10,7 @@
 | [0228-summary-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
@@ -90,4 +91,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
 <!---LeetCode Topics End-->
