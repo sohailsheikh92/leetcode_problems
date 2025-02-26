@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
 | [0228-summary-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0228-summary-ranges) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -53,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
