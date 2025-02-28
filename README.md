@@ -16,6 +16,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
