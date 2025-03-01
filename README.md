@@ -19,6 +19,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@
 | [0162-find-peak-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Sorting
 |  |
 | ------- |
