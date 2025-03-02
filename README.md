@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0907-koko-eating-bananas) |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
