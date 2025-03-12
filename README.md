@@ -201,6 +201,7 @@
 | [0207-course-schedule](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0310-minimum-height-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
@@ -264,6 +265,7 @@
 | [0207-course-schedule](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph
 |  |
@@ -271,12 +273,14 @@
 | [0133-clone-graph](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Matrix
 |  |
