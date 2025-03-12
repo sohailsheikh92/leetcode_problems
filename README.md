@@ -112,6 +112,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
 ## String
@@ -205,6 +206,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0310-minimum-height-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
@@ -270,6 +272,7 @@
 | [0310-minimum-height-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
 ## Graph
 |  |
 | ------- |
