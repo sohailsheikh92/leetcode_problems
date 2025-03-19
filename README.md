@@ -49,6 +49,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -185,6 +186,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
