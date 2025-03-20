@@ -185,6 +185,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -303,4 +304,8 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
