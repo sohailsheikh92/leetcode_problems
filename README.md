@@ -114,6 +114,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
@@ -308,4 +309,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0206-reverse-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
