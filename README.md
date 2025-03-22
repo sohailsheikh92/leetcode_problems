@@ -116,6 +116,7 @@
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
 ## String
@@ -181,6 +182,7 @@
 | [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -317,4 +319,5 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
