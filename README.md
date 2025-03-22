@@ -117,6 +117,7 @@
 | [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
 ## String
@@ -183,6 +184,7 @@
 | [0322-coin-change](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 ## Linked List
 |  |
 | ------- |
@@ -259,10 +261,12 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -320,4 +324,9 @@
 | ------- |
 | [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
