@@ -37,6 +37,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1522-stone-game-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1522-stone-game-iii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
+| [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [1617-stone-game-iv](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1617-stone-game-iv) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
 ## String
 |  |
@@ -210,6 +213,7 @@
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -365,6 +369,7 @@
 | [1522-stone-game-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1617-stone-game-iv) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 ## Bitmask
 |  |
 | ------- |
