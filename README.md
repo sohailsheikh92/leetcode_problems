@@ -32,6 +32,7 @@
 | [0907-koko-eating-bananas](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0873-guess-the-word](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0873-guess-the-word) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
+| [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
 ## String
@@ -198,6 +201,7 @@
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
+| [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -348,6 +352,7 @@
 | [0873-guess-the-word](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0873-guess-the-word) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
+| [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 ## Bitmask
 |  |
 | ------- |
