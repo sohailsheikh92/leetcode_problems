@@ -172,6 +172,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
@@ -296,6 +297,7 @@
 | [0072-edit-distance](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -353,6 +356,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -532,4 +536,5 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
