@@ -259,6 +259,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0677-map-sum-pairs) |
@@ -381,6 +382,7 @@
 | [0542-01-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
