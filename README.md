@@ -194,6 +194,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
@@ -376,6 +378,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
