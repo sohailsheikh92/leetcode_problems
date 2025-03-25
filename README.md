@@ -100,6 +100,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -181,6 +182,7 @@
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
@@ -321,6 +323,7 @@
 | [0213-house-robber-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0322-coin-change) |
@@ -413,6 +416,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
