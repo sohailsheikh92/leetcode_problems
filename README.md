@@ -56,6 +56,7 @@
 | [0542-01-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0553-optimal-division) |
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0720-longest-word-in-dictionary) |
@@ -182,6 +183,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
@@ -385,6 +387,7 @@
 | [0576-out-of-boundary-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
@@ -465,6 +468,7 @@
 | [0376-wiggle-subsequence](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2039-sum-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
