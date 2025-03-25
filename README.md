@@ -17,6 +17,7 @@
 | [0120-triangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0198-house-robber) |
@@ -92,6 +93,7 @@
 | [0001-two-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -211,6 +213,7 @@
 | [0097-interleaving-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -262,6 +265,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -308,6 +312,7 @@
 | [0120-triangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0213-house-robber-ii) |
@@ -421,6 +426,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
