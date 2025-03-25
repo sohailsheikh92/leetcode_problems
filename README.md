@@ -42,6 +42,7 @@
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1522-stone-game-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1522-stone-game-iii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -208,6 +209,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -246,6 +248,7 @@
 | [0839-short-encoding-of-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0839-short-encoding-of-words) |
 | [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String Matching
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 | [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
