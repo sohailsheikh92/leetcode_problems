@@ -81,6 +81,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -90,6 +91,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0520-detect-capital](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0812-rotate-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0812-rotate-string) |
 | [0873-guess-the-word](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0873-guess-the-word) |
 | [1078-remove-outermost-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
@@ -204,6 +207,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
 ## String Matching
 |  |
 | ------- |
@@ -261,6 +265,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0386-lexicographical-numbers) |
+| [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
 ## Binary Tree
 |  |
 | ------- |
