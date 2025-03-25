@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
@@ -355,6 +357,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2039-sum-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
