@@ -189,6 +189,7 @@
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
@@ -336,6 +337,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
@@ -443,6 +445,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0357-count-numbers-with-unique-digits) |
 ## Memoization
 |  |
 | ------- |
