@@ -59,6 +59,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0720-longest-word-in-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0746-prefix-and-suffix-search) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
@@ -397,6 +398,7 @@
 | [0650-2-keys-keyboard](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0688-knight-probability-in-chessboard) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
@@ -512,6 +514,7 @@
 | [0494-target-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -522,6 +525,7 @@
 | [0397-integer-replacement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -531,6 +535,7 @@
 | [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0828-chalkboard-xor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0828-chalkboard-xor-game) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
@@ -623,6 +628,7 @@
 | [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Rolling Hash
 |  |
