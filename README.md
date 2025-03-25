@@ -201,6 +201,7 @@
 | [0014-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -291,6 +292,7 @@
 | [0062-unique-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
