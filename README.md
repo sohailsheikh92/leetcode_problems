@@ -23,6 +23,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0336-palindrome-pairs](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
@@ -142,6 +143,7 @@
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
@@ -474,8 +476,10 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0307-range-sum-query-mutable) |
+| [0406-queue-reconstruction-by-height](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0307-range-sum-query-mutable) |
+| [0406-queue-reconstruction-by-height](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
