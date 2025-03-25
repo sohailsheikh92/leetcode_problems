@@ -45,6 +45,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -361,6 +362,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
@@ -471,6 +473,7 @@
 | [0131-palindrome-partitioning](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 ## Memoization
 |  |
 | ------- |
@@ -486,6 +489,7 @@
 | [0397-integer-replacement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0828-chalkboard-xor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0828-chalkboard-xor-game) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
@@ -573,6 +577,7 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Rolling Hash
 |  |
