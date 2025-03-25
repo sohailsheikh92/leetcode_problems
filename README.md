@@ -12,6 +12,7 @@
 | [0045-jump-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -289,6 +290,7 @@
 | [0055-jump-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
@@ -442,6 +444,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
