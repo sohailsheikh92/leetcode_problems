@@ -40,6 +40,7 @@
 | [0377-combination-sum-iv](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0413-arithmetic-slices](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
@@ -351,6 +352,7 @@
 | [0377-combination-sum-iv](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
@@ -417,6 +419,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Simulation
 |  |
