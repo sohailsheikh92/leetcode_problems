@@ -31,6 +31,7 @@
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0746-prefix-and-suffix-search) |
+| [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0828-chalkboard-xor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0828-chalkboard-xor-game) |
 | [0873-guess-the-word](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0907-koko-eating-bananas) |
@@ -89,6 +90,7 @@
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0746-prefix-and-suffix-search) |
+| [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -115,6 +117,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Sorting
@@ -129,6 +132,7 @@
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0720-longest-word-in-dictionary) |
+| [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Counting
@@ -191,6 +195,7 @@
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0746-prefix-and-suffix-search) |
+| [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0812-rotate-string) |
 | [0873-guess-the-word](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0873-guess-the-word) |
 | [1078-remove-outermost-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
@@ -228,6 +233,7 @@
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0746-prefix-and-suffix-search) |
+| [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 ## String Matching
 |  |
 | ------- |
@@ -245,6 +251,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
