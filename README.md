@@ -396,6 +396,7 @@
 | [0647-palindromic-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0688-knight-probability-in-chessboard](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
