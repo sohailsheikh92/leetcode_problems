@@ -180,6 +180,7 @@
 | [0062-unique-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
@@ -219,6 +220,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0344-reverse-string) |
@@ -318,6 +320,7 @@
 | [0198-house-robber](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0322-coin-change) |
@@ -430,6 +433,7 @@
 | ------- |
 | [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 ## Bit Manipulation
@@ -493,6 +497,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 ## Brainteaser
 |  |
