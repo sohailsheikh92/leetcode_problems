@@ -43,6 +43,7 @@
 | [0413-arithmetic-slices](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
@@ -170,6 +171,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0406-queue-reconstruction-by-height](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
@@ -355,6 +357,7 @@
 | [0397-integer-replacement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
@@ -436,6 +439,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2039-sum-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
