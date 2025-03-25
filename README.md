@@ -38,6 +38,7 @@
 | [0907-koko-eating-bananas](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -65,6 +66,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -202,6 +204,7 @@
 | [0839-short-encoding-of-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0839-short-encoding-of-words) |
 | [0873-guess-the-word](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0873-guess-the-word) |
 | [1078-remove-outermost-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
+| [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -238,11 +241,13 @@
 | [0746-prefix-and-suffix-search](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0746-prefix-and-suffix-search) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0839-short-encoding-of-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0839-short-encoding-of-words) |
+| [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0812-rotate-string) |
+| [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
