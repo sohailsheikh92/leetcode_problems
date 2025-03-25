@@ -46,6 +46,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -248,6 +249,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0474-ones-and-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
@@ -363,6 +365,7 @@
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
