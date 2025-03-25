@@ -51,6 +51,7 @@
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
@@ -373,6 +374,7 @@
 | [0494-target-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
@@ -484,6 +486,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 ## Memoization
 |  |
 | ------- |
@@ -500,6 +503,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 | [0828-chalkboard-xor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0828-chalkboard-xor-game) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
@@ -588,6 +592,7 @@
 | ------- |
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Rolling Hash
 |  |
