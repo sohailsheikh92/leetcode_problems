@@ -295,6 +295,7 @@
 | [0064-minimum-path-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0312-burst-balloons) |
@@ -323,6 +324,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -350,6 +352,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -395,6 +398,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
@@ -524,4 +528,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
