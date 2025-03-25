@@ -251,6 +251,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
@@ -369,6 +370,7 @@
 | [0474-ones-and-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
