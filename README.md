@@ -49,6 +49,7 @@
 | [0474-ones-and-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
@@ -367,6 +368,7 @@
 | [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0494-target-sum) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
@@ -477,6 +479,7 @@
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |
