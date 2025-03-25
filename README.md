@@ -217,6 +217,7 @@
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0553-optimal-division) |
+| [0650-2-keys-keyboard](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [0828-chalkboard-xor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0828-chalkboard-xor-game) |
 | [0873-guess-the-word](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0873-guess-the-word) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
@@ -391,6 +392,7 @@
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
