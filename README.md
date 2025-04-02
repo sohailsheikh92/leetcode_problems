@@ -99,6 +99,7 @@
 | [0125-valid-palindrome](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0344-reverse-string) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -424,6 +426,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0328-odd-even-linked-list) |
@@ -681,4 +684,12 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
