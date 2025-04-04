@@ -211,6 +211,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
@@ -423,6 +424,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -613,6 +615,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
