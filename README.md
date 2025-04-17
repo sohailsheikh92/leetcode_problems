@@ -86,6 +86,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -437,6 +439,7 @@
 | [0328-odd-even-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -491,6 +494,7 @@
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -519,6 +523,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -681,6 +686,7 @@
 |  |
 | ------- |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -698,4 +704,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
