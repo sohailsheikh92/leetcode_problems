@@ -21,6 +21,7 @@
 | [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0200-number-of-islands) |
@@ -133,6 +134,7 @@
 | [0141-linked-list-cycle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
@@ -199,6 +201,7 @@
 | [0018-4sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0268-missing-number) |
@@ -217,6 +220,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
@@ -719,6 +723,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
