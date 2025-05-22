@@ -1,27 +1,47 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int n=nums.length;
-        int i=n-2;
-        while(i>=0 && nums[i]>=nums[i+1])
-            i--;
-        if(i>=0){
-            int j=n-1;
-            while(nums[i]>=nums[j])
-                j--;
-            int temp=nums[i];
-            nums[i]=nums[j];
-            nums[j]=temp;
+    int n = nums.length;
+    int idx = -1;
+
+    // Step 1: Find first decreasing element from right
+    for (int i = n - 1; i > 0; i--) {
+        if (nums[i] > nums[i - 1]) {
+            idx = i - 1;
+            break;
         }
-        rev(nums,i+1,n-1);
     }
 
-    static void rev(int nums[],int i,int j){
-        while(i<j){
-            int temp=nums[i];
-            nums[i]=nums[j];
-            nums[j]=temp;
-            i++;
-            j--;
+    // If entire array is in descending order, reverse it
+    if (idx == -1) {
+        rev(nums, 0, n - 1);
+        return;
+    }
+
+    // Step 2: Find element just larger than nums[idx]
+    for (int i = n - 1; i > idx; i--) {
+        if (nums[i] > nums[idx]) {
+            // Swap
+            int temp = nums[idx];
+            nums[idx] = nums[i];
+            nums[i] = temp;
+            break;
         }
     }
+
+    // Step 3: Reverse the suffix
+    rev(nums, idx + 1, n - 1);
+}
+
+// Helper to reverse part of array
+void rev(int[] nums, int l, int r) {
+    while (l < r) {
+        int temp = nums[l];
+        nums[l] = nums[r];
+        nums[r] = temp;
+        l++;
+        r--;
+    }
+}
+
+
 }
