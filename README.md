@@ -71,6 +71,7 @@
 | [0828-chalkboard-xor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0828-chalkboard-xor-game) |
 | [0839-short-encoding-of-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0839-short-encoding-of-words) |
 | [0873-guess-the-word](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0873-guess-the-word) |
+| [0898-transpose-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -514,6 +515,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -634,6 +636,7 @@
 | [0221-maximal-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0898-transpose-matrix) |
 ## Union Find
 |  |
 | ------- |
