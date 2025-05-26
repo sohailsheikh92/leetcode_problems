@@ -15,6 +15,7 @@
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -185,6 +186,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0278-first-bad-version) |
@@ -634,6 +636,7 @@
 | [0054-spiral-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0221-maximal-square) |
