@@ -19,6 +19,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0130-surrounded-regions) |
@@ -395,6 +396,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0131-palindrome-partitioning) |
