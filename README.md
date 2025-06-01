@@ -28,6 +28,7 @@
 | [0130-surrounded-regions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0189-rotate-array) |
@@ -410,6 +411,7 @@
 | [0131-palindrome-partitioning](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0221-maximal-square) |
