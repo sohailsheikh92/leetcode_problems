@@ -10,11 +10,9 @@ class Solution {
         if(s.charAt(i)=='-' || s.charAt(i)=='+'){
             if(s.charAt(i)=='-')
                 sign = -1;
-            if(s.charAt(i)=='+')
-                sign =1;
             i++;
         }
-        while(i<n && Character.isDigit(s.charAt(i))){
+        while(i<n && s.charAt(i)>='0' && s.charAt(i)<='9'){
             res=res*10+(s.charAt(i)-'0');
             if(sign*res>Integer.MAX_VALUE)
                 return Integer.MAX_VALUE;
