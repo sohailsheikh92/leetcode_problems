@@ -10,20 +10,22 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if (head == null) return null;
-        ArrayList<Integer> al=new ArrayList<>();
+        if(head==null || head.next==null){
+            return head;
+        }
+        List<Integer> al=new ArrayList<>();
         ListNode temp=head;
         while(temp!=null){
             al.add(temp.val);
             temp=temp.next;
         }
         Collections.sort(al);
-        ListNode head1=new ListNode(al.get(0));
-        ListNode curr=head1;
+        ListNode newList=new ListNode(al.get(0));
+        ListNode res=newList;
         for(int i=1;i<al.size();i++){
-            curr.next=new ListNode(al.get(i));
-            curr=curr.next;
+            newList.next=new ListNode(al.get(i));
+            newList=newList.next;
         }
-        return head1;
+        return res;
     }
 }
