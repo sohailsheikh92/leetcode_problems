@@ -363,6 +363,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -488,6 +489,7 @@
 | [0328-odd-even-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
@@ -684,6 +686,7 @@
 | [0234-palindrome-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [2573-remove-nodes-from-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -772,4 +775,8 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
