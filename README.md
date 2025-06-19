@@ -183,6 +183,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
@@ -360,6 +361,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
