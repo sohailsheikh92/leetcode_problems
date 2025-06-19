@@ -1,40 +1,33 @@
-import java.util.*;
-
 class Solution {
-    public List<List<Integer>> fourSum(int[] nums, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
-        int n = nums.length;
-        if (n < 4) return ans;
-
-        Arrays.sort(nums); // Sorting is required
-
-        for (int i = 0; i < n - 3; i++) {
-            if (i > 0 && nums[i] == nums[i - 1]) continue; // Skip duplicates for i
-
-            for (int j = i + 1; j < n - 2; j++) {
-                if (j > i + 1 && nums[j] == nums[j - 1]) continue; // Skip duplicates for j
-
-                int k = j + 1, l = n - 1;
-                while (k < l) {
-                    long sum = (long) nums[i] + nums[j] + nums[k] + nums[l];
-
-                    if (sum == target) {
-                        ans.add(Arrays.asList(nums[i], nums[j], nums[k], nums[l]));
-
-                        // Skip duplicate values for `k` and `l`
-                        while (k < l && nums[k] == nums[k + 1]) k++;
-                        while (k < l && nums[l] == nums[l - 1]) l--;
-
+    public List<List<Integer>> fourSum(int[] arr, int target) {
+        List<List<Integer>> li=new ArrayList<>();
+        Arrays.sort(arr);
+        int n=arr.length;
+        for(int i=0;i<n-3;i++){
+            if(i>0 && arr[i]==arr[i-1])
+                continue;
+            for(int j=i+1;j<n-2;j++){
+                if(j>i+1 && arr[j]==arr[j-1])
+                    continue;
+                int k=j+1,l=n-1;
+                while(k<l){
+long sum = (long) arr[i] + arr[j] + arr[k] + arr[l];
+                    if(sum==target){
+                        li.add(Arrays.asList(arr[i],arr[j],arr[k],arr[l]));
+                    k++;
+                    l--;
+                    
+                    while(k<l && arr[k]==arr[k-1])
                         k++;
+                    while(k<l && arr[l]==arr[l+1])
+                        l--;}
+                    else if(sum>target)
                         l--;
-                    } else if (sum < target) {
+                    else
                         k++;
-                    } else {
-                        l--;
-                    }
                 }
             }
         }
-        return ans;
+        return li;
     }
 }
