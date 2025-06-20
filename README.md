@@ -258,6 +258,7 @@
 | [0048-rotate-image](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -300,6 +301,7 @@
 | [0014-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0097-interleaving-string) |
@@ -548,6 +550,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -614,6 +617,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0397-integer-replacement) |
