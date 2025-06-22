@@ -64,6 +64,7 @@
 | [0475-heaters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -164,6 +165,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0648-replace-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0677-map-sum-pairs) |
@@ -365,6 +367,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -786,5 +789,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
