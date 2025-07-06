@@ -89,6 +89,7 @@
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [0966-binary-subarrays-with-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
@@ -225,6 +226,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
 ## Sorting
