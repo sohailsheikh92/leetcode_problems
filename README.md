@@ -101,6 +101,7 @@
 | [1522-stone-game-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1522-stone-game-iii) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1755-defuse-the-bomb) |
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
@@ -230,6 +231,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
 ## Sorting
 |  |
