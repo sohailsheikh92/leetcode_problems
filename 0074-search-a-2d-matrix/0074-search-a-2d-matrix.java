@@ -1,27 +1,19 @@
 class Solution {
-    public boolean searchMatrix(int[][] matrix, int t) {
-        int n=matrix.length;
-        int m=matrix[0].length;
-        for(int i=0;i<n;i++){
-            if(t>=matrix[i][0] && t<=matrix[i][m-1]){
-                return binarysearch(matrix[i],t);
-            }
-        }
-
-        return false;
-    }
-
-
-    static boolean binarysearch(int matrix[],int t){
-        int i=0,j=matrix.length-1;
+    public boolean searchMatrix(int[][] matrix, int target) {
+        //using binary search most optimal among all
+        int i=0;
+        int j=matrix.length*matrix[0].length-1;
         while(i<=j){
             int mid=i+(j-i)/2;
-            if(matrix[mid]==t)
+            int row=mid/matrix[0].length;
+            int col=mid%matrix[0].length;
+            int curr=matrix[row][col];
+            if(curr==target)
                 return true;
-            else if(matrix[mid]>t)
-                j=mid-1;
-            else
+            else if(curr<target)
                 i=mid+1;
+            else 
+                j=mid-1;
         }
         return false;
     }
