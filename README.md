@@ -113,6 +113,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2737-row-with-maximum-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2737-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -156,6 +157,7 @@
 | [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting
 |  |
 | ------- |
@@ -622,6 +625,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
