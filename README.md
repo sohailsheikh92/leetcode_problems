@@ -111,6 +111,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2047-find-a-peak-element-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2227-sum-of-subarray-ranges) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -526,6 +527,7 @@
 | [1617-stone-game-iv](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1617-stone-game-iv) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -643,6 +645,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2479-meeting-rooms-iii) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
