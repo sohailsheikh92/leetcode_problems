@@ -109,6 +109,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 | [2047-find-a-peak-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2047-find-a-peak-element-ii) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -202,6 +203,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2479-meeting-rooms-iii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -395,6 +397,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2039-sum-game) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -440,6 +443,7 @@
 | [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -806,6 +810,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
 |  |
