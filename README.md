@@ -395,6 +395,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -421,6 +422,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
@@ -634,6 +636,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
