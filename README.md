@@ -128,6 +128,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
 |  |
 | ------- |
@@ -841,6 +843,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [1511-count-number-of-teams](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Ordered Set
 |  |
 | ------- |
@@ -884,4 +887,5 @@
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
