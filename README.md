@@ -113,6 +113,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2047-find-a-peak-element-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -689,6 +690,7 @@
 | [0526-beautiful-arrangement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -717,6 +719,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0828-chalkboard-xor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0828-chalkboard-xor-game) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -891,6 +894,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
