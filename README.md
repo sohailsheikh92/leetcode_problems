@@ -89,6 +89,7 @@
 | [0898-transpose-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0966-binary-subarrays-with-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -540,6 +541,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1511-count-number-of-teams) |
@@ -721,6 +723,7 @@
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0828-chalkboard-xor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0828-chalkboard-xor-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
