@@ -908,4 +908,8 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
