@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
@@ -485,6 +486,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
@@ -887,6 +889,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
