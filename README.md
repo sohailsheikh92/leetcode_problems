@@ -933,6 +933,7 @@
 | [1258-article-views-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2087-confirmation-rate) |
