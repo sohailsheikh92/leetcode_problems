@@ -345,6 +345,7 @@
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0650-2-keys-keyboard) |
+| [0826-soup-servings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0828-chalkboard-xor-game) |
 | [0873-guess-the-word](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0873-guess-the-word) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
@@ -552,6 +553,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0808-number-of-matching-subsequences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0808-number-of-matching-subsequences) |
+| [0826-soup-servings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0826-soup-servings) |
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
@@ -938,4 +940,8 @@
 | [1827-invalid-tweets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2087-confirmation-rate) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
