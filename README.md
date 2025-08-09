@@ -330,6 +330,7 @@
 | [0067-add-binary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0268-missing-number) |
@@ -731,6 +732,7 @@
 | [0029-divide-two-integers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0397-integer-replacement) |
@@ -813,6 +815,7 @@
 | [0002-add-two-numbers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0486-predict-the-winner) |
