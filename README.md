@@ -940,6 +940,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0183-customers-who-never-order) |
 | [1161-project-employees-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1161-project-employees-i) |
+| [1182-game-play-analysis-iv](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1292-immediate-food-delivery-ii) |
 | [1415-students-and-examinations](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1415-students-and-examinations) |
