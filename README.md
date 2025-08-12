@@ -569,6 +569,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Linked List
 |  |
 | ------- |
