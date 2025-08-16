@@ -357,6 +357,7 @@
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1448-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1617-stone-game-iv) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -674,6 +675,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1448-maximum-69-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
