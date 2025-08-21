@@ -107,6 +107,7 @@
 | [1522-stone-game-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1522-stone-game-iii) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1755-defuse-the-bomb) |
@@ -454,6 +455,7 @@
 | [0503-next-greater-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2227-sum-of-subarray-ranges) |
@@ -570,6 +572,7 @@
 | [1511-count-number-of-teams](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1617-stone-game-iv) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -811,6 +814,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0898-transpose-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2737-row-with-maximum-ones) |
 ## Union Find
@@ -930,6 +934,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Enumeration
