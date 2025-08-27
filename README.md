@@ -137,6 +137,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -579,6 +580,7 @@
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
 |  |
 | ------- |
@@ -742,6 +744,7 @@
 | [0464-can-i-win](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -821,6 +824,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2737-row-with-maximum-ones) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Union Find
 |  |
 | ------- |
