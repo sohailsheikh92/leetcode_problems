@@ -376,6 +376,7 @@
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
