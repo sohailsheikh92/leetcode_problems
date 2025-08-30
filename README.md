@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0053-maximum-subarray) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
@@ -810,6 +812,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
