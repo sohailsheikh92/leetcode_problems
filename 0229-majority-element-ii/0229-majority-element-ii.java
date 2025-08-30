@@ -1,15 +1,27 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int n=nums.length;
+        Arrays.sort(nums);
         List<Integer> li = new ArrayList<>();
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for(int x : nums)
-            map.put(x,map.getOrDefault(x,0)+1);
-        for(Map.Entry<Integer,Integer> e : map.entrySet()){
-            if(e.getValue()>n/3){
-                li.add(e.getKey());
+        int cnt = 1;
+        int threshold = nums.length / 3;
+
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] == nums[i - 1]) {
+                cnt++;
+            } else {
+                if (cnt > threshold) {
+                    li.add(nums[i - 1]);
+                }
+                cnt = 1; // reset
             }
-        } 
+        }
+
+        // check the last streak
+        if (cnt > threshold) {
+            li.add(nums[nums.length - 1]);
+        }
+
         return li;
     }
 }
+
