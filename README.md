@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0053-maximum-subarray) |
@@ -187,6 +188,7 @@
 | [0001-two-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0139-word-break) |
@@ -728,6 +730,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0140-word-break-ii) |
@@ -813,6 +816,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
