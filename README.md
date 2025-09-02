@@ -137,6 +137,7 @@
 | [2737-row-with-maximum-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2737-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -319,6 +320,7 @@
 | [2479-meeting-rooms-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -383,6 +385,7 @@
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -966,6 +969,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Database
@@ -991,4 +995,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0826-soup-servings) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
