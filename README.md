@@ -128,6 +128,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -389,6 +390,7 @@
 | [2039-sum-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2039-sum-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -487,6 +489,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
@@ -972,6 +975,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
