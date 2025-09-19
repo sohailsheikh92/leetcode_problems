@@ -152,6 +152,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [3678-design-task-manager](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -260,6 +262,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0746-prefix-and-suffix-search) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
 | [3678-design-task-manager](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -472,6 +475,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
@@ -863,6 +867,7 @@
 | [2737-row-with-maximum-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2737-row-with-maximum-ones) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3797-design-spreadsheet) |
 ## Union Find
 |  |
 | ------- |
