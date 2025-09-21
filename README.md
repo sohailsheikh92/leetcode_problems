@@ -120,6 +120,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
+| [2023-design-movie-rental-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2047-find-a-peak-element-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -238,6 +239,7 @@
 | [1813-maximum-erasure-value](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2023-design-movie-rental-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2689-rearranging-fruits) |
@@ -260,6 +262,7 @@
 | [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0746-prefix-and-suffix-search) |
+| [2023-design-movie-rental-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2023-design-movie-rental-system) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
 | [3678-design-task-manager](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3797-design-spreadsheet) |
@@ -746,6 +749,7 @@
 | [0692-top-k-frequent-words](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2479-meeting-rooms-iii) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
@@ -952,6 +956,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2023-design-movie-rental-system) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
 | [3678-design-task-manager](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
