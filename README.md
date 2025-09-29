@@ -101,6 +101,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1080-camelcase-matching) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1319-unique-number-of-occurrences](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
@@ -608,6 +609,7 @@
 | [0909-stone-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1086-divisor-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1086-divisor-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1522-stone-game-iii) |
