@@ -149,6 +149,7 @@
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -307,6 +308,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
