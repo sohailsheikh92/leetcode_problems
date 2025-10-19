@@ -474,6 +474,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -682,6 +683,7 @@
 | [0386-lexicographical-numbers](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 | [0676-implement-magic-dictionary](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0676-implement-magic-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
@@ -845,6 +847,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0542-01-matrix) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Graph
 |  |
@@ -1016,6 +1019,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
