@@ -151,6 +151,7 @@
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -282,6 +283,7 @@
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
 |  |
@@ -310,6 +312,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -347,6 +350,7 @@
 | [2689-rearranging-fruits](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -713,6 +717,7 @@
 | [1813-maximum-erasure-value](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
 |  |
