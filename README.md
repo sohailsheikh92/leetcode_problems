@@ -150,6 +150,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -256,6 +257,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -422,6 +424,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
