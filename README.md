@@ -135,6 +135,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -735,6 +736,7 @@
 | [1525-queries-on-a-permutation-with-key](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2479-meeting-rooms-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -900,6 +902,7 @@
 | [0898-transpose-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2047-find-a-peak-element-ii) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2737-row-with-maximum-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2737-row-with-maximum-ones) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3748-sort-matrix-by-diagonals) |
