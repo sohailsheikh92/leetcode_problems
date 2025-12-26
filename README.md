@@ -287,6 +287,7 @@
 | [1240-stone-game-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1240-stone-game-ii) |
 | [2002-stone-game-viii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2002-stone-game-viii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
@@ -495,6 +496,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
