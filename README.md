@@ -24,6 +24,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
@@ -512,6 +513,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0234-palindrome-linked-list) |
@@ -572,6 +574,7 @@
 | [0063-unique-paths-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
@@ -894,6 +897,7 @@
 | [0064-minimum-path-sum](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0221-maximal-square) |
@@ -1030,6 +1034,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
