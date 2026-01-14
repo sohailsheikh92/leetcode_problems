@@ -152,6 +152,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3454-separate-squares-ii) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -318,6 +319,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
+| [3454-separate-squares-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -994,6 +996,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/sohailsheikh92/leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [1511-count-number-of-teams](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1511-count-number-of-teams) |
 | [2512-longest-uploaded-prefix](https://github.com/sohailsheikh92/leetcode_problems/tree/master/2512-longest-uploaded-prefix) |
+| [3454-separate-squares-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -1081,4 +1084,8 @@
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/sohailsheikh92/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/sohailsheikh92/leetcode_problems/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
